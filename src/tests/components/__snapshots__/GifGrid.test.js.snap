@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el GifGrid GifGrid debe hacer match con el snapshot 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn animate__slower"
+  >
+     
+    Pikachu
+     
+  </h3>
+  <p>
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
